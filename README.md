@@ -1,2 +1,2 @@
-# -elfboot
+# elfboot
 Elf
